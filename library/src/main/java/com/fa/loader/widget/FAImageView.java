@@ -6,7 +6,6 @@ import android.net.Uri;
 import android.util.AttributeSet;
 import android.webkit.URLUtil;
 
-import com.fa.loader.FALoader;
 import com.facebook.drawee.backends.pipeline.Fresco;
 import com.facebook.drawee.controller.BaseControllerListener;
 import com.facebook.drawee.generic.GenericDraweeHierarchy;
@@ -17,6 +16,7 @@ import com.facebook.imagepipeline.image.ImageInfo;
 import com.facebook.imagepipeline.request.ImageRequest;
 import com.facebook.imagepipeline.request.ImageRequestBuilder;
 import com.squareup.picasso.Picasso;
+import com.fa.loader.FALoader;
 
 /**
  * Created by leobui on 10/31/2017.

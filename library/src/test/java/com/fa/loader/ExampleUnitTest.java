@@ -1,4 +1,4 @@
-package com.vega.loader;
+package com.fa.loader;
 
 import org.junit.Test;
 

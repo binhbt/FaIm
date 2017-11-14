@@ -1,4 +1,4 @@
-package com.vega.loader;
+package com.fa.loader;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
