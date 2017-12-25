@@ -9,7 +9,7 @@ import com.facebook.drawee.backends.pipeline.Fresco;
  */
 
 public class FALoader {
-    public static Type type = Type.FRESCO;
+    public static Type type = Type.PICASSO;
     public enum Type{
         VOLLEY,
         UNIVERSAL,
