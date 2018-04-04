@@ -11,8 +11,8 @@ build.gradle for allprojects
 add to app build.gradle
 ```gradle
 dependencies {
-    compile 'com.github.binhbt:Vegabase:1.0.4'
+    compile 'com.github.binhbt:FaBoiler:1.0.4'
 }
 ```
 Demo at:
-https://github.com/binhbt/VegaBaseDemo
+https://github.com/binhbt/FaDemo
